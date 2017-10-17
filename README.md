@@ -1,1 +1,3 @@
-# gradienttrader.github.io
+## Gradient Trader
+
+Gradient Trader blog!
