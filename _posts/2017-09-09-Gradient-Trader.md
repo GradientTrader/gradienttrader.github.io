@@ -15,13 +15,14 @@ Cryptocurrencies use a decentralised technology to let users make secure payment
 
 With this anonymity and lack of a centralized banking authority comes a highly volatile market. From fears of governments banning the use of cryptocurrencies, an unregulated environment prone to insider trading and “pump and dump” schemes, as well as the uncertainty of how this new form of currency will be used in the future, investing in this market and attempting to predict returns is not for the faint of heart. 
 
-The image below shows the price overlay of top 24 alternative coins since 2016
+The image below shows the price overlay of top 24 alternative coins since 2016:
 
 ![Altcoins Overlay](https://github.com/GradientTrader/gradienttrader.github.io/blob/master/images/altcoins_overlay.png?raw=true)
 
-In addition to Bitcoin, there are actually thousands of alternative coins (note as “altcoins”) being released alongside Bitcoin with the promise of improved technologies,  (and return on investments for those willing to purchase). 
+In addition to Bitcoin, there are actually thousands of alternative coins (note as “altcoins”) being released alongside Bitcoin with the promise of improved technologies,  (and return on investments for those willing to purchase). Below is a list of the top 400 altcoins as of December 2017:
 
-![Altcoins Overlay](https://github.com/GradientTrader/gradienttrader.github.io/blob/master/images/altcoin_list.png.png?raw=true)
+![Altcoins List]
+(https://github.com/GradientTrader/gradienttrader.github.io/blob/master/images/altcoin_list.png.png?raw=true)
 
 With this in mind, we as data scientists see the above as a challenge to determine if there is any method to the madness that is cryptocurrency trading, and if so, can we build a model to predict that method? 
 
