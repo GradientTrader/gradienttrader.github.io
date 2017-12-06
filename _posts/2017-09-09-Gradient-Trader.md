@@ -17,6 +17,5 @@ With this anonymity and lack of a centralized banking authority comes a highly v
 
 In addition to Bitcoin, there are actually thousands of alternative coins (note as “altcoins”) being released alongside Bitcoin with the promise of improved technologies,  (and return on investments for those willing to purchase). 
 
-![Altcoins Overlay](https://github.com/GradientTrader/gradienttrader.github.io/blob/master/images/altcoins_overlay.png
-?raw=true)
+![Altcoins Overlay](https://github.com/GradientTrader/gradienttrader.github.io/blob/master/images/altcoins_overlay.png?raw=true)
 
