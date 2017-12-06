@@ -15,8 +15,15 @@ Cryptocurrencies use a decentralised technology to let users make secure payment
 
 With this anonymity and lack of a centralized banking authority comes a highly volatile market. From fears of governments banning the use of cryptocurrencies, an unregulated environment prone to insider trading and “pump and dump” schemes, as well as the uncertainty of how this new form of currency will be used in the future, investing in this market and attempting to predict returns is not for the faint of heart. 
 
-In addition to Bitcoin, there are actually thousands of alternative coins (note as “altcoins”) being released alongside Bitcoin with the promise of improved technologies,  (and return on investments for those willing to purchase). 
+The image below shows the price overlay of top 24 alternative coins since 2016:
 
-![Bitcoin Boom](https://github.com/GradientTrader/gradienttrader.github.io/blob/master/images/altcoins_overlay.png
-?raw=true)
+![Altcoins Overlay](https://github.com/GradientTrader/gradienttrader.github.io/blob/master/images/altcoins_overlay.png?raw=true)
+
+In addition to Bitcoin, there are actually thousands of alternative coins (note as “altcoins”) being released alongside Bitcoin with the promise of improved technologies,  (and return on investments for those willing to purchase). Below is a list of the top 400 altcoins as of December 2017:
+
+![Altcoins List](https://github.com/GradientTrader/gradienttrader.github.io/blob/master/images/altcoin_list.png?raw=true)
+
+With this in mind, we as data scientists see the above as a challenge to determine if there is any method to the madness that is cryptocurrency trading, and if so, can we build a model to predict that method? 
+
+Financial modeling has been in practice for decades and is a challenge for even the most well-resourced institutions, so the task of developing predictive models for this highly speculative market is no small feat. However, where there’s risk there’s reward, and if we are able to decrease that risk even a tiny amount, we would consider ourselves successful. 
 
