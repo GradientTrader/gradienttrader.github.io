@@ -1,1 +1,3 @@
-![env.py](https://nbviewer.jupyter.org/github/GradientTrader/simulator/blob/master/v2/env.ipynb?raw=true)
+![env.png](https://github.com/GradientTrader/gradienttrader.github.io/blob/master/images/env.png?raw=true)
+
+
