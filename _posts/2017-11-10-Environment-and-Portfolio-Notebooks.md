@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Gradient Trader -  <h2>A CryptoCurrency Trader Powered By Deep Q-Learning<h2>
+title: Gradient Trader -  <h2>Environment and Portfolio Notebooks<h2>
 ---
 
 ![env1.png](https://github.com/GradientTrader/gradienttrader.github.io/blob/master/images/env1.png?raw=true)
