@@ -9,4 +9,4 @@ The popularity of cryptocurrencies has grown tremendously over the years. While 
 
 Created in the year 2000, Bitcoin was introduced as the first cryptocurrency. Since 2011, the price of bitcoin has increased by 1,100,000%, recently reaching a cost of $11,000 per coin!
 
-![Bitcoin Boom](/Users/raweti/Documents/ucb_ds/gradient_trader/gradienttrader.github.io/images/bitcoin_boom.png)
+!(/Users/raweti/Documents/ucb_ds/gradient_trader/gradienttrader.github.io/images/bitcoin_boom.png)
