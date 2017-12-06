@@ -21,7 +21,7 @@ The image below shows the price overlay of top 24 alternative coins since 2016:
 
 In addition to Bitcoin, there are actually thousands of alternative coins (note as “altcoins”) being released alongside Bitcoin with the promise of improved technologies,  (and return on investments for those willing to purchase). Below is a list of the top 400 altcoins as of December 2017:
 
-![Altcoins List](https://github.com/GradientTrader/gradienttrader.github.io/blob/master/images/altcoin_list.png.png?raw=true)
+![Altcoins List](https://github.com/GradientTrader/gradienttrader.github.io/blob/master/images/altcoin_list.png?raw=true)
 
 With this in mind, we as data scientists see the above as a challenge to determine if there is any method to the madness that is cryptocurrency trading, and if so, can we build a model to predict that method? 
 
