@@ -9,4 +9,14 @@ The popularity of cryptocurrencies has grown tremendously over the years. While 
 
 Created in the year 2000, Bitcoin was introduced as the first cryptocurrency. Since 2011, the price of bitcoin has increased by 1,100,000%, recently reaching a cost of $11,000 per coin!
 
-![Bitcoin Boom](https://github.com/GradientTrader/gradienttrader.github.io/blob/master/images/bitcoin_boom.png)
+![Bitcoin Boom](https://github.com/GradientTrader/gradienttrader.github.io/blob/master/images/bitcoin_boom.png?raw=true)
+
+Cryptocurrencies use a decentralised technology to let users make secure payments and store money without the need to use their name or go through a bank. Encryption techniques are used to handle transactions without the need for  a centralized financial authority, allowing for  anonymous exchanges between coin sellers and buyers. Bitcoin is managed by a network that uses blockchain technology. Blockchain is a network of computers that jointly manage the database to record Bitcoin transactions. This central network is part of the reason for bitcoin’s high security; any changes to the transaction records must be agreed upon by every computer on the system. 
+
+With this anonymity and lack of a centralized banking authority comes a highly volatile market. From fears of governments banning the use of cryptocurrencies, an unregulated environment prone to insider trading and “pump and dump” schemes, as well as the uncertainty of how this new form of currency will be used in the future, investing in this market and attempting to predict returns is not for the faint of heart. 
+
+In addition to Bitcoin, there are actually thousands of alternative coins (note as “altcoins”) being released alongside Bitcoin with the promise of improved technologies,  (and return on investments for those willing to purchase). 
+
+![Bitcoin Boom](https://github.com/GradientTrader/gradienttrader.github.io/blob/master/images/altcoins_overlay.png
+?raw=true)
+
