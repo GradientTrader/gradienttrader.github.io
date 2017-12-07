@@ -8,3 +8,5 @@ Reinforcement learning (RL) is a type of machine learning that allows the agent 
 The main difference between RL and traditional machine learning is that reinforcement learning tries to solve a reward maximization problem over multiple steps (aka stochastic sequential decision processes). Instead of supervised learning with a clear feedback, reinforcement learning is about scores and rewards. 
 
 So how does RI actually work? One example allows the software agent to select an action that will maximise the reward in the long term. We don’t tell the software what to do, but instead it learns from its own environment and experience. This is one of the differences between reinforcement learning and supervised learning.
+
+![reinforcement learning](https://github.com/GradientTrader/gradienttrader.github.io/blob/master/images/rl_image.png?raw=true)
