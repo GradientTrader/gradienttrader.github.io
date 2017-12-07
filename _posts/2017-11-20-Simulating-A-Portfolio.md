@@ -1,4 +1,9 @@
+---
+layout: post
+title: Simulating a Portfolio
+---
 
+We need to keep track of the performances of our trader.
 
 ```python
 

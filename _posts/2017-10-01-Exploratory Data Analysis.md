@@ -1,3 +1,8 @@
+---
+layout: post
+title: Exploratory Data Analysis
+---
+
 Bitcoin, Ethereum, and Ripple have been selected as representatives in our EDA. Bitcoin and Ethereum well represent mainstream cryptocurrencies that most people are trading with, while Ripple represents new emerging cryptocurrencies with high potentials.
 
 The first dimension we analyze is the price itself. As shown in the graph below, Bitcoin obviously has the highest price amongst all cryptocurrencies, followed by Ethereum, and the price of Ripple is extremely low comparing with others. However, if we look at the normalized prices, Bitcoin becomes the least attractive one amongst all, while Ethereum’s price increases tremendously during the past year. In general, all the prices are increasing throughout the year, which brings potential challenges to our reinforcement model, as the simple buy-and-hold strategy could be good enough.
