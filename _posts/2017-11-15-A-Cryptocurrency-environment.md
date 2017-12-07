@@ -1,4 +1,9 @@
+---
+layout: post
+title: A CryptoCurrency Environment
+---
 
+How do we create a programmatic environment to explore the Cryptocurrenct environment?
 
 ```python
 '''

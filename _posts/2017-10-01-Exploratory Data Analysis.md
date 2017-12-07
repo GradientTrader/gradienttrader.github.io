@@ -1,3 +1,8 @@
+---
+layout: post
+title: Exploratory Data Analysis
+---
+
 Bitcoin, Ethereum, and Ripple have been selected as representatives in our EDA. Bitcoin and Ethereum well represent mainstream cryptocurrencies that most people are trading with, while Ripple represents new emerging cryptocurrencies with high potentials.
 
 The first dimension we analyze is the price itself. As shown in the graph below, Bitcoin obviously has the highest price amongst all cryptocurrencies, followed by Ethereum, and the price of Ripple is extremely low comparing with others. However, if we look at the normalized prices, Bitcoin becomes the least attractive one amongst all, while Ethereum’s price increases tremendously during the past year. In general, all the prices are increasing throughout the year, which brings potential challenges to our reinforcement model, as the simple buy-and-hold strategy could be good enough.
@@ -20,11 +25,12 @@ In order to explore opportunities on pair trading, the correlations between each
 Bollinger Bands is a popular indicator for selling and buying points. It is given by the following formula:
               
 Upper Band = MA +2
+
 Lower Band = MA - 2
 
 where MA is the moving average, and  is the rolling standard deviation 
 
-The Bollinger Bands can serve as our baseline model, where we can buy when the price crosses the upper band, and sell when the price crosses the lower band. The Bollinger Bands for the 3 cryptocurrencies are plotted below using 20-day rolling window. From the plots we can roughly tell that trading these cryptocurrencies by simply following the Bollinger Bands will give us some profits, which makes it a good candidate of the baseline model.
+The Bollinger Bands can serve as our baseline model, where we can sell when the price crosses the upper band, and buy when the price crosses the lower band. The Bollinger Bands for the 3 cryptocurrencies are plotted below using 20-day rolling window. From the plots we can roughly tell that trading these cryptocurrencies by simply following the Bollinger Bands will give us some profits, which makes it a good candidate of the baseline model.
 
 ![EDA5](https://github.com/GradientTrader/gradienttrader.github.io/blob/master/images/EDA5.png?raw=true)
 

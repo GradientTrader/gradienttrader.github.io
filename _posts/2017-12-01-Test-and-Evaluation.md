@@ -1,11 +1,9 @@
+---
+layout: post
+title: Test and Evaluation
+---
 
-# Cryptocurrency Trader Agent
-
-### UCB MIDS 2017 Winter Capstone Project
-#### Ramsey Aweti, Shuang Chan, GuangZhi(Frank) Xie, Jason Xie
-
-### Global Variables
-
+And finally, how are we evaluating our results?
 
 ```python
 import random 

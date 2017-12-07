@@ -1,4 +1,9 @@
+---
+layout: post
+title: Deep Q Learning Agent
+---
 
+So how exactly does an agent trade? Here we explain our DQN agent.
 
 ```python
 
