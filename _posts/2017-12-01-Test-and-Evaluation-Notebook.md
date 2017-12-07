@@ -1,6 +1,4 @@
 
-# Cryptocurrency Trader Agent
-
 ### UCB MIDS 2017 Winter Capstone Project
 #### Ramsey Aweti, Shuang Chan, GuangZhi(Frank) Xie, Jason Xie
 
