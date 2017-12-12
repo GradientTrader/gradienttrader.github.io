@@ -32,7 +32,7 @@ We have also explored several reward functions. At first we followed the reinfor
 The final results is shown in the table below.
 
 | Coin        | Baseline Model (%)  | DQN Model (%)  |
-| ------------|--------------------:| --------------:|
+| :---        |                ---: |           ---: |
 | Bitcoin     | 8.91                | 74.97          |
 | Ethereum    | 52.62               | 2809.12        |
 | Ripple      | 58.58               | 122.6          |
