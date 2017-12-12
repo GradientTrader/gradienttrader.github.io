@@ -24,11 +24,11 @@ In order to explore opportunities on pair trading, the correlations between each
 
 Bollinger Bands is a popular indicator for selling and buying points. It is given by the following formula:
               
-Upper Band = MA +2
+Upper Band = MA + 2\theta
 
-Lower Band = MA - 2
+Lower Band = MA - 2\theta
 
-where MA is the moving average, and  is the rolling standard deviation 
+where MA is the moving average, and \theta is the rolling standard deviation 
 
 The Bollinger Bands can serve as our baseline model, where we can sell when the price crosses the upper band, and buy when the price crosses the lower band. The Bollinger Bands for the 3 cryptocurrencies are plotted below using 20-day rolling window. From the plots we can roughly tell that trading these cryptocurrencies by simply following the Bollinger Bands will give us some profits, which makes it a good candidate of the baseline model.
 
