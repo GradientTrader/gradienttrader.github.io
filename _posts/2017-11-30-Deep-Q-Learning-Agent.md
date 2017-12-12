@@ -35,7 +35,8 @@ f. Train the deep neural network with the new Target Q vector and State incremen
 3. Repeat Step #1 until convergence
 
 
-```python
+
+```Python Code
 
 '''
 
