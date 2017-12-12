@@ -6,7 +6,8 @@ title: Deep Q Learning Agent
 So how exactly does an agent trade? Here we explain our DQN agent.
 
 Deep Q Learning Algorithm (E-Greedy)
-1. For each step of the episode from the simulation
+
+For each step of the episode from the simulation
 
 a. Retrieve the feature vector that defines the state, i.e.: Cross Bollinger Bands, SMA and etc.
 b. Use the deep learning neural network to estimate the Q values for each action.  The output is the Target Q vector
@@ -31,9 +32,8 @@ i. Update the Q value that corresponds to the action taken from the Target Q vec
                 
 f. Train the deep neural network with the new Target Q vector and State incrementally
 
-2. Decrease the Epilon by a decay function
-3. Repeat Step #1 until convergence
-
+Decrease the Epilon by a decay function
+Repeat Step #1 until convergence
 
 
 ```Python Code
