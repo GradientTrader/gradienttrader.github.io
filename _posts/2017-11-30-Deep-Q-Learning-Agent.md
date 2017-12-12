@@ -30,7 +30,7 @@ i. Update the Q value that corresponds to the action taken from the Target Q vec
         # -0.60 + gamma * -0.50
         target[0][action.value] = reward + self.gamma * t[np.argmax(a)]
                 
-f. Train the deep neural network with the new Target Q vector and State incrementally  
+j. Train the deep neural network with the new Target Q vector and State incrementally  
 
 Decrease the Epilon by a decay function  
 Repeat Step #1 until convergence  
