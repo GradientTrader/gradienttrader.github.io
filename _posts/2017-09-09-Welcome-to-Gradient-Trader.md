@@ -7,7 +7,7 @@ Welcome to Gradient Trader - a cryptocurrency trading platform using deep learni
 
 The popularity of cryptocurrencies has grown tremendously over the years. While it remains a  highly speculative market, its mention in mainstream media, the growth of hedge funds focused solely on cryptocurrencies, and the backing of such currencies by established investors has given rise to a greater number of investors. 
 
-Created in the year 2009, Bitcoin was introduced as the first cryptocurrency. Since 2011, the price of bitcoin has increased by 1,100,000%, recently reaching a cost of $11,000 per coin!
+Created in the year 2009, Bitcoin was introduced as the first cryptocurrency. Since 2011, the price of bitcoin has increased by 1,100,000%, recently reaching a cost of $19,000 per coin!
 
 ![Bitcoin Boom](https://github.com/GradientTrader/gradienttrader.github.io/blob/master/images/bitcoin_boom.png?raw=true)
 
