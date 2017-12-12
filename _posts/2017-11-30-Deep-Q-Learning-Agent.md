@@ -36,7 +36,7 @@ Decrease the Epilon by a decay function
 Repeat Step #1 until convergence
 
 
-```Python Code
+```python
 
 '''
 
