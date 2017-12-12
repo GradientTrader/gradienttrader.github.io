@@ -32,8 +32,9 @@ i. Update the Q value that corresponds to the action taken from the Target Q vec
                 
 f. Train the deep neural network with the new Target Q vector and State incrementally
 
-Decrease the Epilon by a decay function
-Repeat Step #1 until convergence
+Decrease the Epilon by a decay function  
+
+Repeat Step #1 until convergence  
 
 
 ```python
