@@ -12,6 +12,9 @@ Thank you for checking out our work at Gradient Trader. We are a group of four w
 
 Ramsey Aweti: [ramseyaweti@berkeley.edu](mailto:ramseyaweti@berkeley.edu)
 
+Shuang Chan: [shuangchan@berkeley.edu](mailto:shuangchan@berkeley.edu)
+
 Frank Xie Guangzhi: [guangzhi.xie@berkeley.edu](mailto:guangzhi.xie@berkeley.edu)
 
 Jason Xie: [jxieeducation@berkeley.edu](mailto:jxieeducation@berkeley.edu)
+
