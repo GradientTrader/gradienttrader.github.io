@@ -43,4 +43,5 @@ We can see that in general, our deep Q learning model outperforms the baseline m
 In the current model, we added 1 bps spread to the price when buy and sell as the trading cost. In the next step, we should include a more practical method to calculate the trading cost. In addition, our current model only supports buy/sell a predefined number of coins per order. We should implement a more flexible action in our next release. 
 
 Reference:
+
 Wang et al. Jan 2017. Deep Q-trading. Retrieved from http://cslt.riit.tsinghua.edu.cn/mediawiki/images/5/5f/Dtq.pdf
