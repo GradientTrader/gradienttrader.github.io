@@ -10,6 +10,8 @@ Thank you for checking out our work at Gradient Trader. We are a group of four w
 
 ### Contact me
 
-Ramsey Aweti: [ramseyaweti@gmail.com](mailto:ramseyaweti@gmail.com)
+Ramsey Aweti: [ramseyaweti@berkeley.edu](mailto:ramseyaweti@berkeley.edu)
 
 Frank Xie Guangzhi: [guangzhi.xie@berkeley.edu](mailto:guangzhi.xie@berkeley.edu)
+
+Jason Xie: [jxieeducation@berkeley.edu](mailto:jxieeducation@berkeley.edu)
