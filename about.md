@@ -10,4 +10,4 @@ Thank you for checking out our work at Gradient Trader. We are a group of four w
 
 ### Contact me
 
-[ramseyaweti@gmail.com](mailto:ramseyaweti@gmail.com)
+Ramsey Aweti: [ramseyaweti@gmail.com](mailto:ramseyaweti@gmail.com)
