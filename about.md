@@ -11,3 +11,5 @@ Thank you for checking out our work at Gradient Trader. We are a group of four w
 ### Contact me
 
 Ramsey Aweti: [ramseyaweti@gmail.com](mailto:ramseyaweti@gmail.com)
+
+Frank Xie Guangzhi: [guangzhi.xie@berkeley.edu](mailto:guangzhi.xie@berkeley.edu)
