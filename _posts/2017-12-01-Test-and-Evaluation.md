@@ -38,9 +38,9 @@ The final results is shown in the table below.
 | Ripple      | 58.58                  | 122.6          |
 | Numeraire   | -35.86                 | 0.00           |
 
-We can see that in general, our deep Q learning model outperforms the baseline model, and it performs much better when the market is good.
+We can see that in general, our deep Q learning model outperforms the baseline model, and it performs much better when the market is good. When the market is bad, it tends to just holding without doing any trading. This is one of the biggest issue we need to address in the future work.
 
-In the current model, we added 1 bps spread to the price when buy and sell as the trading cost. In the next step, we should include a more practical method to calculate the trading cost. In addition, our current model only supports buy/sell a predefined number of coins per order. We should implement a more flexible action in our next release. 
+In the current model, we added 1 bps spread to the price when buy and sell as the trading cost. In the next step, we should include a more practical method to calculate the trading cost. In addition, our current model only supports buy/sell a predefined number of coins per order. We should implement a more flexible action in our next release.
 
 Reference:
 
